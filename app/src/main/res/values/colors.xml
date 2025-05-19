@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material Design Default Colors -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Primary Theme Colors -->
+    <color name="primary">#1E88E5</color>
+    <color name="primary_dark">#1565C0</color>
+    <color name="primary_light">#64B5F6</color>
+    <color name="accent">#FF4081</color>
+    <color name="accent_color">@color/accent</color>
+    
+    <!-- Background Colors -->
+    <color name="background">#F5F7FA</color>
+    <color name="background_color">@color/background</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="card_bg">#FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_tertiary">#9E9E9E</color>
+    <color name="text_white">#FFFFFF</color>
+    
+    <!-- Stat Card Colors -->
+    <color name="voltage_card">#2196F3</color>
+    <color name="current_card">#4CAF50</color>
+    <color name="power_card">#FF9800</color>
+    <color name="energy_card">#9C27B0</color>
+    
+    <!-- Gradient Colors -->
+    <color name="gradient_start">#1E88E5</color>
+    <color name="gradient_end">#1565C0</color>
+    <color name="cost_gradient_start">#43A047</color>
+    <color name="cost_gradient_end">#2E7D32</color>
+    
+    <!-- Chart Colors -->
+    <color name="chart_line">#2196F3</color>
+    <color name="chart_fill">#802196F3</color>
+    <color name="chart_grid">#20000000</color>
+    <color name="grid_color">#20000000</color>
+    
+    <!-- Status Colors -->
+    <color name="success">#4CAF50</color>
+    <color name="error">#F44336</color>
+    <color name="warning">#FFC107</color>
+    
+    <!-- Connection Status -->
+    <color name="connected">#4CAF50</color>
+    <color name="disconnected">#F44336</color>
+    
+    <!-- Legacy Colors (for backward compatibility) -->
+    <color name="stat_card_1">@color/voltage_card</color>
+    <color name="stat_card_2">@color/current_card</color>
+    <color name="stat_card_3">@color/power_card</color>
+    <color name="stat_card_4">@color/energy_card</color>
+    <color name="stat_card_2_light">#8048B461</color>
+</resources>
